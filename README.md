@@ -14,7 +14,7 @@
 # MJ- viagens
 # 🏷️Detalhes do projeto
 
-## Projeto feito no curso da Udemy - Progamacao b Completo - projeto de um site feito somente com html com uso de tabela.
+## Projeto feito no curso da Udemy - Progamacao Web Completo - projeto de um site feito somente com html com uso de tabela.
 
 
 # MJ-Viagens
