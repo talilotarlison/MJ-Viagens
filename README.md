@@ -11,10 +11,10 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# MJ- viagens
-# 🏷️Detalhes do projeto
+## MJ- viagens
+## 🏷️Detalhes do projeto
 
-## Projeto feito no curso da Udemy - Progamacao Web Completo - projeto de um site feito somente com html com uso de tabela.
+### Projeto feito no curso da Udemy - Progamacao Web Completo - projeto de um site feito somente com html com uso de tabela.
 
 
-# MJ-Viagens
+### MJ-Viagens
